@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "gatsby-tutorial-based website",
+    title: "Gatsby Tutorial",
     author: "pragmaticpat",
   },
   plugins: ["gatsby-plugin-image", "gatsby-plugin-sharp"],
