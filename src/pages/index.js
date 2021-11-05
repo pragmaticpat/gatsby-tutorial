@@ -7,7 +7,7 @@ const IndexPage = () => (
     <p>I'm making this by following the Gatsby tutorial 💜</p>
     <StaticImage
       alt="Mountain range from phoenix az"
-      src="../../images/mountains.jpeg"
+      src="../images/mountains.jpeg"
     ></StaticImage>
   </Layout>
 );

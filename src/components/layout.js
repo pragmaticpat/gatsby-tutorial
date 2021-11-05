@@ -20,8 +20,6 @@ const Layout = ({ pageTitle, children }) => {
     }
   `);
 
-  console.log(`Site metadata: ${JSON.stringify(data)}`);
-
   return (
     <div className={container}>
       <title>
